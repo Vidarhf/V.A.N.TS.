@@ -1,5 +1,3 @@
-"use client";
-
 import * as AFRAME from "aframe";
 
 export default function Scene({ children }: { children: React.ReactNode }) {
