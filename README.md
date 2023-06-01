@@ -1,5 +1,5 @@
 <h1 align="center">
-  A-Frame + NEXT.js Boilerlerplate
+  A-Frame + NEXT.js Boilerplate
 </h1>
 
 <p align="center">Boilerplate and Starter for building Web 3D/AR/VR experiences.</p>
