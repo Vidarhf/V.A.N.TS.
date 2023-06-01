@@ -25,11 +25,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ### Frontend - Typescript and Next
 
-The front end is a Next.js⚡app bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app) with typescript for typechecking.
+The front end is a Next.js app bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app) with typescript for typechecking.
 
 ### 3D - A-Frame
 
-Enables development of 3D web apps, sites, landing pages, games.
+A-Frame enables fast development of 3D web apps, sites, landing pages, games.
+Being a framework based on three.js, A-Frame provides full access to the three.js API.
 It uses WebXR API to gain access to VR headset sensor data (position, orientation) to transform the camera and to render content directly to VR headsets.
 
 ## 🚀 Deploy on Vercel
