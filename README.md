@@ -21,17 +21,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Tech stack
+## ⚙️ Tech stack
 
-### Frontend - Typescript and React
+### Frontend - Typescript and Next
 
-The front end is a Next.js⚡app bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app)
+The front end is a Next.js⚡app bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app) with typescript for typechecking.
 
 ### 3D - A-Frame
 
 Enables development of 3D web apps, sites, landing pages, games.
 It uses WebXR API to gain access to VR headset sensor data (position, orientation) to transform the camera and to render content directly to VR headsets.
-## Deploy on Vercel
+
+## 🚀 Deploy on Vercel
 
 The quickest way to deploy this application is via the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
