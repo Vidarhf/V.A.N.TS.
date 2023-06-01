@@ -19,7 +19,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Click the link or open [http://localhost:3000/HelloWorld](http://localhost:3000/HelloWorld) to see example 3D scene. Move with WASD keys and mouse, or use VR headset.
 
 ## ⚙️ Tech stack
 
