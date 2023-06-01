@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "VATS",
+  title: "webXR-boilerplate",
   description: "This is a boilerplate for building WebXR apps with Next.js.",
 };
 
